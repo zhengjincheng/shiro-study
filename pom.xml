@@ -5,11 +5,7 @@
   <artifactId>shiro-study</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-<<<<<<< HEAD
-  <name>shiro-study0</name>
-=======
-  <name>shiro-study1</name>
->>>>>>> 19121eb9e1adec3c4a406c5d174e8f44950d7505
+  <name>shiro-study</name>
   <url>http://maven.apache.org</url>
 
 	<dependencies>  
